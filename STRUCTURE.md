@@ -5,11 +5,12 @@ This document provides a visual overview of the project structure and workflow.
 ## Directory Tree
 
 ```
-notebooks/
+. (project root)
 ├── .gitignore                          # Git ignore rules
 ├── README.md                           # Main project documentation
 ├── SETUP.md                            # Setup and installation guide
 ├── ADDING_NOTEBOOKS.md                 # Guide for adding new notebooks
+├── STRUCTURE.md                        # This file - project overview
 ├── requirements.txt                    # Python dependencies
 │
 ├── common/                             # Shared resources
