@@ -1,0 +1,14 @@
+{
+  "project_name": "Notebooks Project",
+  "version": "1.0.0",
+  "description": "Multi-notebook project with shared libraries and individual datasets",
+  "common_settings": {
+    "random_seed": 42,
+    "plot_style": "whitegrid",
+    "figure_dpi": 100
+  },
+  "data_processing": {
+    "default_encoding": "utf-8",
+    "missing_value_strategy": "drop"
+  }
+}
