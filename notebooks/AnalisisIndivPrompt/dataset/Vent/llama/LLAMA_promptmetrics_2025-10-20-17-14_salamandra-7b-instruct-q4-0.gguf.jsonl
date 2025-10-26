@@ -1,0 +1,1 @@
+{"start_timestamp": 1760973257461809858, "finish_timestamp": 1760973281910703330, "model": "salamandra-7b-instruct-q4_0.gguf", "total_duration": 24448893472, "prompt_eval_count": 84, "prompt_eval_duration": 19127920000.0, "eval_count": 15, "eval_duration": 5188914000.0, "load_duration": 19129102000.0, "answer": "Raymond III, Count of Tripoli (c. 11", "prompt_id": 10}

@@ -1,0 +1,6 @@
+pandas-jsonlines
+prettytable
+pandas
+matplotlib
+seaborn
+numpy
